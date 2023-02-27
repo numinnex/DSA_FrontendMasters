@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search_Algos", "Search_Algos\Search_Algos.csproj", "{C7E36AB8-191E-42C5-A7DB-7CD90806D102}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{32781B05-83BA-4032-A7D2-3567CAAC5F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{8A3F2734-13F3-48DA-A7CD-D748831385F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{C7E36AB8-191E-42C5-A7DB-7CD90806D102}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E36AB8-191E-42C5-A7DB-7CD90806D102}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E36AB8-191E-42C5-A7DB-7CD90806D102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32781B05-83BA-4032-A7D2-3567CAAC5F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32781B05-83BA-4032-A7D2-3567CAAC5F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32781B05-83BA-4032-A7D2-3567CAAC5F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32781B05-83BA-4032-A7D2-3567CAAC5F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3F2734-13F3-48DA-A7CD-D748831385F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3F2734-13F3-48DA-A7CD-D748831385F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3F2734-13F3-48DA-A7CD-D748831385F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3F2734-13F3-48DA-A7CD-D748831385F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
